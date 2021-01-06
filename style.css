@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    image-orientation: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    image-orientation: center;
+}
+
+.John_Muir {
+    margin-right: 25px;
+    margin-left: 25px;
+    image-orientation: center;
+}
+
+.Maxime_Lagace {
+    margin-right: 25px;
+    margin-left: 25px;
+    image-orientation: center;
+}
+
+.Isaac Newton {
+    margin-left: 25px;
+    margin-right: 25px;
+    image-orientation: center;
+}
+}
